@@ -1,7 +1,7 @@
 # FOMC-Alt-Statements
 This contains the alternative FOMC statements proposed by the Federal Reserve Board staff contained in Bluebooks /Tealbooks document (Part II). 
 
-Each file begins with a 6 number identifier - this corresponds to the year and month of production of the Bluebook / Tealbook given as YYYYMM. For example, 200501 corresponds to the January 2005 Bluebook. 
+Each file begins with a 6 number identifier - this corresponds to the year and month of production of the Bluebook / Tealbook given as YYYYMM. For example, 200501 corresponds to the January 2005 Bluebook. It should be noted that since the colour books are produced in advance of the FOMC meeting, it is sometimes the case that the colour book month-year precedes that of the FOMC meeting. 
 
 In most cases, there are 3 alternatives presented; these are labelled A, B and C. In some cases there are fewer and in some cases there are more. Where there are more, and these are associated with different policy actions, the alternatives will be labelled with an additional number after the corresponding letter. For instance, if there are two Alternative A policy actions, the corresponding proposed statements will be labelled A and A2. In the actual Bluebook / Tealbook, these are often reported as A and A' but I have adopted the numbering system for consistency. This is also true in the corresponding policy options data. 
 
